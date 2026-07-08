@@ -1,0 +1,10 @@
+table {
+    border-collapse: unset;
+}
+th, td {
+    border: solid 3px purple;
+}
+    caption {
+        font-size: 50px;
+        color: rgb(61, 7, 61);
+    }
