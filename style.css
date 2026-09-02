@@ -1,10 +1,36 @@
-table {
-    border-collapse: unset;
+#h1 {
+    align-items: center;
+    font-size: 200px;
 }
-th, td {
-    border: solid 3px purple;
+
+#h2 {
+    font-size: 150px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
 }
-    caption {
-        font-size: 50px;
-        color: rgb(61, 7, 61);
-    }
+header {
+    align-items: center;
+    color: white;
+    font-size: large;
+}
+
+img{
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    height: 450px;
+}
+
+
+p{
+    font-size: larger;
+}
+
+.Contato {
+    align-items: center;
+    font-size: larger;
+}
+
+body {
+    background-image: url(https://www.speedrun.com/static/theme/8756z1mw/background.gif?v=4c969a3);
+}
